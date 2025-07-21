@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+matplotlib
+seaborn
+python-multipart
+python-dotenv
+groq
+pydantic
+dotenv
+requests
+sqlalchemy
+psycopg2
+supabase
